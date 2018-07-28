@@ -2,8 +2,8 @@
 // This program recieves Message from MQTT Broker 
 // and processes data recieved by Adafruit.io
 
-// Author : Harshit Srivastava
-// Data : 10th Jan 2018
+// Author : Gauri Kesarwani
+// Data : 13th April 2018
 
 /************************* library included *********************************/
 #include <ESP8266WiFi.h>
